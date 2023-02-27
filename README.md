@@ -1,0 +1,9 @@
+# Sprint-Review-and-Retrospective
+
+# This deliverable showcases the agile and Scrum practices that I have applied throughout this course, including sprint planning, daily stand-up meetings, sprint reviews, and retrospectives. Through these practices, I have been able to work effectively with my team members to deliver a high-quality software product that meets user needs.
+
+# Interpreting user needs and implementing them into a program is a critical skill for software developers. To accomplish this, creating "user stories" can be a helpful technique. User stories are short, simple descriptions of a feature told from the perspective of the user. They can help developers better understand what the user wants and how the feature should work. By breaking down user needs into user stories, developers can prioritize features and focus on delivering value to the user.
+
+# Approaching program development involves understanding the requirements, identifying user needs, and breaking down the project into manageable tasks. Agile processes such as Scrum, Kanban, and Lean development can be helpful in managing complex software development projects. I hope to incorporate these agile processes into my future development work to increase collaboration, improve communication, and increase the speed of development.
+
+# Being a good team member in software development requires effective communication, collaboration, and flexibility. Effective communication involves active listening, clear and concise expression of ideas, and openness to feedback. Collaboration involves working together to achieve a shared goal and respecting the contributions of all team members. Flexibility involves being open to change and adapting to new challenges. As a good team member, I will prioritize these skills to work effectively with others and deliver high-quality software products.
